@@ -1,240 +1,801 @@
 {
-    "2017-10-10T08:39:42": {
+    "2017-10-01T21:52:41": {
         "Lose": [
-            "Auriel",
-            "Xul",
-            "Ana",
-            "Lunara",
+            "Malthael",
+            "Stukov",
+            "Varian",
+            "Tracer",
+            "Tassadar"
+        ],
+        "Map": "Volskaya Foundry",
+        "Win": [
+            "Valla",
+            "Genji",
+            "Brightwing",
+            "L\u00facio",
             "Tyrael"
+        ]
+    },
+    "2017-10-01T22:29:18": {
+        "Lose": [
+            "Garrosh",
+            "Li-Ming",
+            "L\u00facio",
+            "Valeera",
+            "Illidan"
         ],
         "Map": "Haunted Mines",
         "Win": [
-            "Chromie",
-            "",
-            "L\u00facio",
-            "Garrosh",
-            "Malthael"
+            "Xul",
+            "Kerrigan",
+            "Brightwing",
+            "Varian",
+            "Lunara"
         ]
     },
-    "2017-10-11T04:38:18": {
+    "2017-10-01T23:47:31": {
         "Lose": [
-            "Gul'dan",
-            "Alarak",
-            "L\u00facio",
-            "Ana",
-            "Garrosh"
-        ],
-        "Map": "Tomb of the Spider Queen",
-        "Win": [
-            "Thrall",
-            "Auriel",
-            "Zarya",
-            "Muradin",
-            "Greymane"
-        ]
-    },
-    "2017-10-11T05:12:00": {
-        "Lose": [
-            "Leoric",
-            "L\u00facio",
-            "Tassadar",
-            "",
-            "Greymane"
+            "Lunara",
+            "Arthas",
+            "Medivh",
+            "Brightwing",
+            "E.T.C."
         ],
         "Map": "Battlefield of Eternity",
         "Win": [
-            "Johanna",
-            "Medivh",
-            "Kerrigan",
-            "Ana",
-            "Jaina"
-        ]
-    },
-    "2017-10-11T05:39:17": {
-        "Lose": [
-            "Murky",
-            "Garrosh",
-            "Uther",
-            "Nova",
-            "Cassia"
-        ],
-        "Map": "Cursed Hollow",
-        "Win": [
-            "Lt. Morales",
-            "",
-            "Malthael",
-            "Ragnaros",
-            "Tassadar"
-        ]
-    },
-    "2017-10-11T06:49:54": {
-        "Lose": [
+            "Genji",
+            "Tassadar",
+            "Zagara",
             "L\u00facio",
-            "Thrall",
-            "Chen",
-            "Sonya",
-            ""
-        ],
-        "Map": "Warhead Junction",
-        "Win": [
-            "Malthael",
-            "Genji",
-            "Garrosh",
-            "Lt. Morales",
-            "Cassia"
+            "Garrosh"
         ]
     },
-    "2017-10-11T10:01:26": {
+    "2017-10-02T00:25:42": {
         "Lose": [
-            "Brightwing",
-            "Nova",
-            "Ana",
-            "Malthael",
-            "Samuro"
-        ],
-        "Map": "Cursed Hollow",
-        "Win": [
-            "Varian",
-            "Diablo",
-            "Uther",
-            "Valla",
-            "Illidan"
-        ]
-    },
-    "2017-10-12T14:49:39": {
-        "Lose": [
-            "Greymane",
-            "Rehgar",
+            "Li-Ming",
+            "Anub'arak",
             "Zeratul",
-            "",
-            "Abathur"
-        ],
-        "Map": "Tomb of the Spider Queen",
-        "Win": [
-            "Tyrael",
-            "Genji",
-            "Ana",
-            "Stukov",
-            "Zagara"
-        ]
-    },
-    "2017-10-13T15:53:18": {
-        "Lose": [
-            "Lt. Morales",
-            "",
-            "",
-            "",
-            "Abathur"
-        ],
-        "Map": "Haunted Mines",
-        "Win": [
-            "Diablo",
-            "Leoric",
             "Malfurion",
-            "Kael'thas",
-            "Ana"
-        ]
-    },
-    "2017-10-13T16:12:32": {
-        "Lose": [
-            "Chromie",
-            "Valla",
-            "Artanis",
-            "",
-            "L\u00facio"
+            "Garrosh"
         ],
         "Map": "Infernal Shrines",
         "Win": [
-            "Auriel",
-            "Alarak",
-            "Tracer",
-            "",
-            "Malthael"
-        ]
-    },
-    "2017-10-13T16:38:21": {
-        "Lose": [
-            "Stukov",
-            "Auriel",
-            "E.T.C.",
-            "Sonya",
-            "Tychus"
-        ],
-        "Map": "Warhead Junction",
-        "Win": [
-            "Brightwing",
-            "Cassia",
             "Tassadar",
-            "Stitches",
-            "Garrosh"
+            "L\u00facio",
+            "Alarak",
+            "Nova",
+            "Muradin"
         ]
     },
-    "2017-10-13T18:16:07": {
+    "2017-10-02T03:01:59": {
         "Lose": [
-            "Sonya",
-            "Illidan",
-            "Brightwing",
-            "Stitches",
-            "Zeratul"
+            "L\u00facio",
+            "Tyrael",
+            "Alarak",
+            "Nova",
+            "Sonya"
         ],
         "Map": "Cursed Hollow",
         "Win": [
-            "The Lost Vikings",
-            "Nazeebo",
-            "Falstad",
+            "Sgt. Hammer",
+            "Malthael",
+            "Zarya",
+            "Diablo",
+            "Lt. Morales"
+        ]
+    },
+    "2017-10-02T03:39:22": {
+        "Lose": [
+            "Abathur",
+            "Uther",
             "Muradin",
+            "Genji",
+            "Greymane"
+        ],
+        "Map": "Towers of Doom",
+        "Win": [
+            "Sonya",
+            "Brightwing",
+            "L\u00facio",
+            "Anub'arak",
+            "Falstad"
+        ]
+    },
+    "2017-10-02T04:20:02": {
+        "Lose": [
+            "Cassia",
+            "E.T.C.",
+            "Sonya",
+            "Zarya",
+            "Lt. Morales"
+        ],
+        "Map": "Tomb of the Spider Queen",
+        "Win": [
+            "Johanna",
+            "Tassadar",
+            "Tracer",
+            "Alarak",
+            "Ana"
+        ]
+    },
+    "2017-10-02T04:55:45": {
+        "Lose": [
+            "Garrosh",
+            "Greymane",
+            "Xul",
+            "Malfurion",
+            "Ana"
+        ],
+        "Map": "Dragon Shire",
+        "Win": [
+            "Lt. Morales",
+            "Nazeebo",
+            "Kael'thas",
+            "Stitches",
+            "Johanna"
+        ]
+    },
+    "2017-10-02T05:37:40": {
+        "Lose": [
+            "Varian",
+            "Gul'dan",
+            "Stukov",
+            "Xul",
+            "Muradin"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Lt. Morales",
+            "Arthas",
+            "Cassia",
+            "Alarak",
+            "Sonya"
+        ]
+    },
+    "2017-10-02T18:15:28": {
+        "Lose": [
+            "Jaina",
+            "Zagara",
+            "Alarak",
+            "Stitches",
+            "Brightwing"
+        ],
+        "Map": "Volskaya Foundry",
+        "Win": [
+            "Lunara",
+            "Samuro",
+            "Tyrael",
+            "Sonya",
             "Malfurion"
         ]
     },
-    "2017-10-15T14:17:33": {
+    "2017-10-03T19:32:30": {
         "Lose": [
-            "Auriel",
-            "Zeratul",
-            "Tassadar",
-            "Diablo",
-            "Valla"
+            "Stitches",
+            "Abathur",
+            "L\u00facio",
+            "Valla",
+            "Sonya"
         ],
-        "Map": "Battlefield of Eternity",
+        "Map": "Haunted Mines",
         "Win": [
-            "Ana",
-            "Brightwing",
-            "Sonya",
-            "Cassia",
-            "Stitches"
+            "Xul",
+            "Garrosh",
+            "Tassadar",
+            "Greymane",
+            "Ana"
         ]
     },
-    "2017-10-15T14:59:05": {
+    "2017-10-04T00:45:47": {
         "Lose": [
-            "",
-            "Alarak",
-            "",
+            "Greymane",
+            "Artanis",
             "E.T.C.",
-            "L\u00facio"
+            "Nova",
+            "Uther"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Tassadar",
+            "Valla",
+            "Ana",
+            "Johanna",
+            "Sonya"
+        ]
+    },
+    "2017-10-04T19:11:39": {
+        "Lose": [
+            "Greymane",
+            "Stitches",
+            "Samuro",
+            "Varian",
+            "Uther"
+        ],
+        "Map": "Cursed Hollow",
+        "Win": [
+            "Ana",
+            "Stukov",
+            "Jaina",
+            "Sonya",
+            "Arthas"
+        ]
+    },
+    "2017-10-04T19:56:33": {
+        "Lose": [
+            "Garrosh",
+            "Valla",
+            "Brightwing",
+            "Auriel",
+            "Anub'arak"
         ],
         "Map": "Warhead Junction",
         "Win": [
-            "Tyrael",
-            "Auriel",
-            "Arthas",
+            "Sonya",
+            "Uther",
+            "L\u00facio",
+            "Varian",
+            "Abathur"
+        ]
+    },
+    "2017-10-05T03:45:44": {
+        "Lose": [
             "Ana",
+            "Falstad",
+            "Abathur",
+            "E.T.C.",
+            "Diablo"
+        ],
+        "Map": "Dragon Shire",
+        "Win": [
+            "Zeratul",
+            "Brightwing",
+            "Arthas",
+            "Rehgar",
             "Valla"
+        ]
+    },
+    "2017-10-05T04:18:41": {
+        "Lose": [
+            "Malthael",
+            "D.Va",
+            "Zarya",
+            "Stukov",
+            "Lunara"
+        ],
+        "Map": "Tomb of the Spider Queen",
+        "Win": [
+            "Genji",
+            "Dehaka",
+            "L\u00facio",
+            "Garrosh",
+            "Falstad"
+        ]
+    },
+    "2017-10-05T05:07:46": {
+        "Lose": [
+            "Ana",
+            "Genji",
+            "Kel'Thuzad",
+            "Anub'arak",
+            "Greymane"
+        ],
+        "Map": "Battlefield of Eternity",
+        "Win": [
+            "Zagara",
+            "Malthael",
+            "Tyrande",
+            "Uther",
+            "E.T.C."
+        ]
+    },
+    "2017-10-05T05:42:41": {
+        "Lose": [
+            "Uther",
+            "Genji",
+            "Tyrande",
+            "Artanis",
+            "Muradin"
+        ],
+        "Map": "Towers of Doom",
+        "Win": [
+            "Dehaka",
+            "Greymane",
+            "E.T.C.",
+            "Brightwing",
+            "Ana"
+        ]
+    },
+    "2017-10-05T06:28:05": {
+        "Lose": [
+            "E.T.C.",
+            "Zeratul",
+            "Malthael",
+            "Ana",
+            "Greymane"
+        ],
+        "Map": "Infernal Shrines",
+        "Win": [
+            "Garrosh",
+            "Sonya",
+            "Valla",
+            "L\u00facio",
+            "Tassadar"
+        ]
+    },
+    "2017-10-05T08:55:21": {
+        "Lose": [
+            "Kael'thas",
+            "Johanna",
+            "Ana",
+            "Brightwing",
+            "Malthael"
+        ],
+        "Map": "Towers of Doom",
+        "Win": [
+            "Jaina",
+            "Tyrael",
+            "Greymane",
+            "L\u00facio",
+            "Sonya"
+        ]
+    },
+    "2017-10-06T07:55:31": {
+        "Lose": [
+            "Sonya",
+            "Brightwing",
+            "Garrosh",
+            "Greymane",
+            "Jaina"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Genji",
+            "Li-Ming",
+            "E.T.C.",
+            "Kharazim",
+            "Leoric"
+        ]
+    },
+    "2017-10-07T01:47:37": {
+        "Lose": [
+            "Muradin",
+            "Alarak",
+            "Tassadar",
+            "Lt. Morales",
+            "Valla"
+        ],
+        "Map": "Dragon Shire",
+        "Win": [
+            "E.T.C.",
+            "Zarya",
+            "Malthael",
+            "Greymane",
+            "Stukov"
+        ]
+    },
+    "2017-10-07T02:27:32": {
+        "Lose": [
+            "Lt. Morales",
+            "Artanis",
+            "E.T.C.",
+            "Greymane",
+            "Jaina"
+        ],
+        "Map": "Battlefield of Eternity",
+        "Win": [
+            "Zagara",
+            "Stitches",
+            "Genji",
+            "Malfurion",
+            "Sonya"
+        ]
+    },
+    "2017-10-07T02:53:33": {
+        "Lose": [
+            "Ana",
+            "Valla",
+            "Kharazim",
+            "Artanis",
+            "Arthas"
+        ],
+        "Map": "Warhead Junction",
+        "Win": [
+            "Alarak",
+            "Muradin",
+            "Lt. Morales",
+            "Tassadar",
+            "Greymane"
+        ]
+    },
+    "2017-11-06T16:36:22": {
+        "Lose": [
+            "Dehaka",
+            "Greymane",
+            "Medivh",
+            "Lt. Morales",
+            "E.T.C."
+        ],
+        "Map": "Cursed Hollow",
+        "Win": [
+            "Valla",
+            "Rehgar",
+            "Sonya",
+            "Tassadar",
+            "Anub'arak"
+        ]
+    },
+    "2017-11-09T03:52:15": {
+        "Lose": [
+            "Sonya",
+            "Anub'arak",
+            "Uther",
+            "Zul'jin",
+            "Medivh"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Kharazim",
+            "Brightwing",
+            "Genji",
+            "Valla",
+            "Diablo"
+        ]
+    },
+    "2017-11-09T04:10:20": {
+        "Lose": [
+            "Ana",
+            "Brightwing",
+            "Greymane",
+            "Sonya",
+            "Diablo"
+        ],
+        "Map": "Braxis Holdout",
+        "Win": [
+            "Auriel",
+            "Valla",
+            "E.T.C.",
+            "Leoric",
+            "L\u00facio"
+        ]
+    },
+    "2017-11-09T04:41:10": {
+        "Lose": [
+            "Auriel",
+            "Zarya",
+            "Stukov",
+            "Zul'jin",
+            "Dehaka"
+        ],
+        "Map": "Dragon Shire",
+        "Win": [
+            "Alarak",
+            "Greymane",
+            "Sonya",
+            "Stitches",
+            "Lt. Morales"
+        ]
+    },
+    "2017-11-09T06:32:48": {
+        "Lose": [
+            "Sonya",
+            "Falstad",
+            "L\u00facio",
+            "Varian",
+            "Greymane"
+        ],
+        "Map": "Sky Temple",
+        "Win": [
+            "Malfurion",
+            "Zeratul",
+            "Malthael",
+            "Stitches",
+            "Ana"
+        ]
+    },
+    "2017-11-09T10:08:19": {
+        "Lose": [
+            "Sonya",
+            "Arthas",
+            "Brightwing",
+            "Valla",
+            "Malfurion"
+        ],
+        "Map": "Volskaya Foundry",
+        "Win": [
+            "Kerrigan",
+            "Kharazim",
+            "Greymane",
+            "Auriel",
+            "Dehaka"
+        ]
+    },
+    "2017-11-09T11:08:33": {
+        "Lose": [
+            "Stukov",
+            "Stitches",
+            "Azmodan",
+            "Zul'jin",
+            "Brightwing"
+        ],
+        "Map": "Cursed Hollow",
+        "Win": [
+            "Alarak",
+            "Genji",
+            "Abathur",
+            "Uther",
+            "Diablo"
+        ]
+    },
+    "2017-11-10T07:31:54": {
+        "Lose": [
+            "Diablo",
+            "Illidan",
+            "Genji",
+            "Lunara",
+            "Brightwing"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Falstad",
+            "Rehgar",
+            "Anub'arak",
+            "Tychus",
+            "Sonya"
+        ]
+    },
+    "2017-11-10T07:50:19": {
+        "Lose": [
+            "Sonya",
+            "Auriel",
+            "Brightwing",
+            "Anub'arak",
+            "Zul'jin"
+        ],
+        "Map": "Sky Temple",
+        "Win": [
+            "Stukov",
+            "Genji",
+            "Chromie",
+            "Alarak",
+            "Muradin"
+        ]
+    },
+    "2017-11-10T08:20:55": {
+        "Lose": [
+            "E.T.C.",
+            "Rehgar",
+            "Brightwing",
+            "Genji",
+            "Alarak"
+        ],
+        "Map": "Tomb of the Spider Queen",
+        "Win": [
+            "Lt. Morales",
+            "Greymane",
+            "Zeratul",
+            "Johanna",
+            "Uther"
+        ]
+    },
+    "2017-11-10T08:52:55": {
+        "Lose": [
+            "Zarya",
+            "Ana",
+            "Diablo",
+            "Murky",
+            "Junkrat"
+        ],
+        "Map": "Dragon Shire",
+        "Win": [
+            "Illidan",
+            "Thrall",
+            "D.Va",
+            "L\u00facio",
+            "Zul'jin"
+        ]
+    },
+    "2017-11-11T02:01:30": {
+        "Lose": [
+            "Stitches",
+            "Tassadar",
+            "Sonya",
+            "Ana",
+            "Cassia"
+        ],
+        "Map": "Sky Temple",
+        "Win": [
+            "Muradin",
+            "Zul'jin",
+            "Arthas",
+            "Lt. Morales",
+            "Zarya"
+        ]
+    },
+    "2017-11-11T16:40:54": {
+        "Lose": [
+            "Dehaka",
+            "Tyrael",
+            "Genji",
+            "Uther",
+            "Falstad"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "D.Va",
+            "Brightwing",
+            "Greymane",
+            "Zeratul",
+            "Lt. Morales"
+        ]
+    },
+    "2017-11-12T03:58:07": {
+        "Lose": [
+            "Tassadar",
+            "Auriel",
+            "Illidan",
+            "Johanna",
+            "Valla"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Ana",
+            "Zul'jin",
+            "Stitches",
+            "Li Li",
+            "Tracer"
+        ]
+    },
+    "2017-11-12T04:39:08": {
+        "Lose": [
+            "Greymane",
+            "Nazeebo",
+            "Auriel",
+            "Tassadar",
+            "Varian"
+        ],
+        "Map": "Sky Temple",
+        "Win": [
+            "Lt. Morales",
+            "Cassia",
+            "Sonya",
+            "Sylvanas",
+            "Zarya"
+        ]
+    },
+    "2017-11-12T06:19:04": {
+        "Lose": [
+            "Sonya",
+            "Lt. Morales",
+            "Rehgar",
+            "Zagara",
+            "Junkrat"
+        ],
+        "Map": "Braxis Holdout",
+        "Win": [
+            "Azmodan",
+            "Falstad",
+            "Malthael",
+            "Varian",
+            "Brightwing"
+        ]
+    },
+    "2017-11-14T09:36:56": {
+        "Lose": [
+            "E.T.C.",
+            "Auriel",
+            "Sonya",
+            "Cassia",
+            "Kharazim"
+        ],
+        "Map": "Braxis Holdout",
+        "Win": [
+            "Malthael",
+            "Ana",
+            "Stukov",
+            "Gul'dan",
+            "Muradin"
+        ]
+    },
+    "2017-11-14T10:08:39": {
+        "Lose": [
+            "Zul'jin",
+            "Zarya",
+            "Alarak",
+            "Stukov",
+            "Garrosh"
+        ],
+        "Map": "Haunted Mines",
+        "Win": [
+            "Tychus",
+            "Muradin",
+            "Genji",
+            "Ana",
+            "Malthael"
+        ]
+    },
+    "2017-11-14T15:16:58": {
+        "Lose": [
+            "Muradin",
+            "Lunara",
+            "Auriel",
+            "Artanis",
+            "Tassadar"
+        ],
+        "Map": "Tomb of the Spider Queen",
+        "Win": [
+            "Zul'jin",
+            "Lt. Morales",
+            "Junkrat",
+            "Uther",
+            "E.T.C."
+        ]
+    },
+    "2017-11-14T15:36:11": {
+        "Lose": [
+            "Junkrat",
+            "Kharazim",
+            "E.T.C.",
+            "L\u00facio",
+            "Greymane"
+        ],
+        "Map": "Towers of Doom",
+        "Win": [
+            "Tassadar",
+            "Stitches",
+            "Xul",
+            "Zul'jin",
+            "Ana"
+        ]
+    },
+    "2017-11-15T13:49:00": {
+        "Lose": [
+            "Zul'jin",
+            "Kharazim",
+            "Brightwing",
+            "Malthael",
+            "Muradin"
+        ],
+        "Map": "Cursed Hollow",
+        "Win": [
+            "Rehgar",
+            "E.T.C.",
+            "Sonya",
+            "Junkrat",
+            "Stukov"
+        ]
+    },
+    "2017-11-15T15:39:23": {
+        "Lose": [
+            "Diablo",
+            "Brightwing",
+            "Ragnaros",
+            "Medivh",
+            "Genji"
+        ],
+        "Map": "Cursed Hollow",
+        "Win": [
+            "Sonya",
+            "Muradin",
+            "Ana",
+            "Jaina",
+            "Uther"
         ]
     },
     "match_id": {
         "Lose": [
-            "",
-            "",
-            "Dehaka",
-            "",
-            "Auriel"
+            "Diablo",
+            "Auriel",
+            "Greymane",
+            "Lunara",
+            "Sonya"
         ],
         "Map": "map",
         "Win": [
+            "Genji",
             "Muradin",
-            "Lt. Morales",
-            "Sonya",
-            "Cassia",
-            "Uther"
+            "Uther",
+            "Kharazim",
+            "The Lost Vikings"
         ]
     }
 }
