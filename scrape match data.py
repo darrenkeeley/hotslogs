@@ -53,11 +53,10 @@ def leaderboard_ranks(region=3, gamemode=4, league='master', DIR = os.getcwd() )
 
 #NOTE: table class = 'rgDetailTable'
 #id = 'ctl00_MainContent_RadGridMatchHistory_ctl00__x', and x goes from 0 to 9.
-def scrape_matches(ranks = os.getcwd() + '\korea_ranks.csv', str_date = '10/1/2017 12:00:00 AM', time_limit = 45): #time_limit=10800
-    ranks_reader = csv.reader(open(ranks, 'r', encoding = 'UTF-8'))
-    
+def scrape_matches(ranks = os.getcwd() + '\korea_ranks.csv', str_date = '10/1/2017 12:00:00 AM', time_limit = 45):    
     #Check if match data has already been scraped by a previous operation and saved to the local disc as json.
-    #If so, read it and add to it. If not, the script will create a new json file from scratch.   
+    #If so, read it and add to it. If not, the script will create a new json file from scratch.
+    ranks_reader = csv.reader(open(ranks, 'r', encoding = 'UTF-8'))
     try:
         data_file = open(os.getcwd() + '\korea_matches.json', 'r', encoding = 'UTF-8')
         data = json.load(data_file)
